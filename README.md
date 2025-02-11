@@ -63,3 +63,5 @@ Para acessar todas as aulas com os conteúdos originais, basta acessar o link:
 - <a href="https://umporcentoprogramador.notion.site/Desafio-31-dias-14eb1e7da8f280b69980cc0a57dab7ec">31 Dias de Programação</a>
 
 ### 👦 Desenvolvido por: Lucas Luis Valgoi
+
+#### 📰 Projeto sob Licença [MIT](./LICENSE)
