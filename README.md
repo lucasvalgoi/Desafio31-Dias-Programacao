@@ -5,7 +5,7 @@
 
 ## ✏️ Intuito do Repositório
 
-Neste repositório, apresento todos os arquivos de exercícios e de conteúdos teóricos que aprendi durante a realização do desafio de **31 Dias de Programação** do <a href="https://www.instagram.com/umporcentoprog/?hl=pt-br" target="_blanket">Um Porcento Programador</a>
+Neste repositório, apresento todos os arquivos de exercícios e de conteúdos teóricos que aprendi durante a realização do desafio de **31 Dias de Programação** do <a href="https://www.instagram.com/umporcentoprog/?hl=pt-br" target="_blank">Um Porcento Programador</a>
 
 ## Sobre o Desafio
 O desafio teve início no dia 01/01 e finalizou-se no dia 31/01 onde foram abordados diversos temas básicos e mais avançados do mundo da programação ao longo desses 31 dias.
@@ -60,7 +60,7 @@ Arquivos de exercícios e conteúdos teóricos com as aulas:
 
 ## 🔗 Como Usar
 Para acessar todas as aulas com os conteúdos originais, basta acessar o link:
-- <a href="https://umporcentoprogramador.notion.site/Desafio-31-dias-14eb1e7da8f280b69980cc0a57dab7ec">31 Dias de Programação</a>
+- <a href="https://umporcentoprogramador.notion.site/Desafio-31-dias-14eb1e7da8f280b69980cc0a57dab7ec" target="_blank">31 Dias de Programação</a>
 
 ### 👦 Desenvolvido por: Lucas Luis Valgoi
 
