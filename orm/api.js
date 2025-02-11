@@ -2,7 +2,7 @@ const express = require('express');
 const { sincronizarBanco } = require('./sync')
 const { criarUsuarios } = require('./create')
 const { listarUsuarios } = require("./read");
-const { deletarUsuarioPorId } = require('./delete');
+// const { deletarUsuarioPorId } = require('./delete');
 
 
 const app = express()
